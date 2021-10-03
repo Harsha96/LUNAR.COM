@@ -7,3 +7,5 @@ React
 python
 <H1> Image Recognize module </H1> 
 kotlin
+<H1> Activity Log and Report Module </H1> 
+Java
