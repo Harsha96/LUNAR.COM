@@ -12,7 +12,7 @@ kotlin
 Java
 <h1><b>Project Demo</b></h1>
 
-Astronomer App demo link -:https://drive.google.com/drive/u/1/folders/1dAITLm4kLOHCze-nokot1cBJLq3Z9iIS
+Astronomer App demo link -: https://drive.google.com/file/d/12QKF7Vipld4bybUEt9YnWJe6tAz_ewgP/view?usp=sharing
 
 Scientist App demo  link -: https://drive.google.com/file/d/1cL25wwjR_OahV9v_DL_IOTees7bMhB0k/view?usp=sharing
 
