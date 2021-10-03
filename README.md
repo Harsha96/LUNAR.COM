@@ -10,5 +10,10 @@ python
 kotlin
 <H1> Activity Log and Report Module </H1> 
 Java
+<h1><b>Project Demo</b></h1>
 
+Astronomer App demo link -:
+
+Scientist App demo  link -: https://drive.google.com/file/d/1cL25wwjR_OahV9v_DL_IOTees7bMhB0k/view?usp=sharing
+https://drive.google.com/file/d/1cL25wwjR_OahV9v_DL_IOTees7bMhB0k/view?usp=sharing
 ![243468980_635481504525602_3394050610407430587_n](https://user-images.githubusercontent.com/27472173/135765499-32021005-63fc-441c-b2fc-375143eaee1f.jpg)
